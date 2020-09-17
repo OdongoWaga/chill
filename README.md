@@ -1,6 +1,6 @@
 # Chill
 
-Flutter Tinder Clone built with Firebase and Bloc
+## Flutter Tinder Clone built with Firebase and Bloc
 
 [Youtube Tutorial Series Explaining How App Was Built](https://www.youtube.com/watch?v=uSck9FC-b9g&list=PLdBY1aYxSpPVokznNKIg3dmdeeJHiHF9Z)
 
